@@ -5,6 +5,7 @@
 4. npm i redux-thunk
 5. npm i redux-logger
 6. npm i axios
+7. npm i --save redux-devtools-extension
 
 
 # Getting Started with Create React App
